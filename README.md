@@ -1,4 +1,4 @@
-## Laboratory work IX [![Build Status](https://travis-ci.com/puchkovki/lab09.svg?branch=master)](https://travis-ci.com/puchkovki/lab09)
+## Laboratory work IX [![Build Status](https://travis-ci.com/puchkovki/lab09-Github-Release.svg?branch=master)](https://travis-ci.com/puchkovki/lab09-Github-Release)
 
 <a href="https://yandex.ru/efir/?stream_id=vYrKRcFKi46o"><img src="https://raw.githubusercontent.com/tp-labs/lab09/master/preview.png" width="640"/></a>
 
